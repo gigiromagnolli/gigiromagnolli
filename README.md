@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gigiromagnolli
-- 👀 I’m interested in comer
-- 🌱 I’m currently learning matematica 
-- 💞️ I’m looking to collaborate on com as outras pessoas da plataforma
-- 📫 How to reach me instagram
+- 👀 I’m interested in astronomy and psychology
+- 🌱 I’m currently learning moving on the platform
+- 💞️ I’m looking to collaborate on with the other people
+- 📫 How to reach me Instagram (@euromagnolli)
 
 <!---
 gigiromagnolli/gigiromagnolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
